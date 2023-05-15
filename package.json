@@ -1,0 +1,22 @@
+{
+  "name": "js-bootcamp",
+  "version": "1.0.0",
+  "description": "JS Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klezovics/js-bootcamp.git"
+  },
+  "author": "Arthur Klezovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klezovics/js-bootcamp/issues"
+  },
+  "homepage": "https://github.com/klezovics/js-bootcamp#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
